@@ -1,0 +1,12 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "\"This is only nod js tutorial seris\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
