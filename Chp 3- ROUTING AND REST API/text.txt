@@ -1,0 +1,16 @@
+REST API - JSON
+
+// post = for posting 
+// get = for readin
+// put = for uploading
+// patch = eding
+// delete = delete the 
+
+GET /users - list app the users
+GET /users/1 - get user with id 1
+
+POST /users - create new user
+
+PATCH /users/1
+
+DELETE /
