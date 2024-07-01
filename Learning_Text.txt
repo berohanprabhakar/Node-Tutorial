@@ -6,3 +6,5 @@ There are five types of status codes
 3. Redirection responses  (300-399)
 4. Client error responses (400-499)
 5. Server error responses (500-599)
+
+Schema - Define the structure 
